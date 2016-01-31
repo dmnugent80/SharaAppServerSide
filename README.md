@@ -1,4 +1,4 @@
-# SharaAppServerSide
+# ShareAppServerSide
 Server Side PHP scripts for ShareApp
 
 These are PHP scripts that run on an Apache web server and they connect to a MySQL database
